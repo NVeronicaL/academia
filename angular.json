@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "academy"
+    }
+  },
+  "defaultProject": "academy",
+  "cli": {
+    "analytics": false
+  }
 }
